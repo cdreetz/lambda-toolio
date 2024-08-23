@@ -31,7 +31,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "lambda-cloud-assistant=lambda_cloud_client.client:main",
+            "lambda-toolio=lambda_toolio.client:main",
         ],
     },
 )
