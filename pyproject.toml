@@ -10,6 +10,8 @@ python = "^3.10"
 requests = "^2.32.3"
 python-dotenv = "^1.0.1"
 
+[tool.poetry.scripts]
+lambda-toolio = "lambda_toolio.client:main"
 
 [build-system]
 requires = ["poetry-core"]

@@ -141,7 +141,7 @@ class LambdaToolio:
                 break
 
 def main():
-    client = LambdaCloudClient()
+    client = LambdaToolio()
     client.interactive_assistant()
 
 if __name__ == "__main__":
