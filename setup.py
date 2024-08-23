@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="lambda_cloud_client",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Christian",
+    author_email="cdreetz@gmail.com",
     description="A client for interacting with Lambda Cloud API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/lambda_cloud_client",
+    url="https://github.com/cdreetz/lambda_cloud_client",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
