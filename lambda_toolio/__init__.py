@@ -1,1 +1,1 @@
-from .client import LambdaCloudClient
+from .client import LambdaToolio
