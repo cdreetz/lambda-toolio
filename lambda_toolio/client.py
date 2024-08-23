@@ -5,7 +5,7 @@ import subprocess
 import os
 from dotenv import load_dotenv
 
-class LambdaCloudClient:
+class LambdaToolio:
     BASE_URL = 'https://cloud.lambdalabs.com/api/v1'
 
     def __init__(self):

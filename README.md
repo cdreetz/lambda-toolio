@@ -30,21 +30,21 @@ poetry add git+https://github.com/cdreetz/lambda-toolio.git
 To use the Lambda Cloud Client as a Python module:
 
 ```python
-from lambda_cloud_client import LambdaCloudClient
+from lambda_toolio import LambdaToolio
 
-client = LambdaCloudClient()
+client = LambdaToolio()
 client.interactive_assistant()
 ```
 
 To use the Lambda Cloud Client as a command-line tool:
 
 ```
-lambda-cloud-assistant
+lambda-toolio
 ```
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/lambda_cloud_client).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/cdreetz/lambda-toolio).
 
 ## License
 
