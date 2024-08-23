@@ -16,13 +16,13 @@ Lambda Cloud Client is a Python package that provides an easy-to-use interface f
 You can install the Lambda Cloud Client directly from GitHub using pip:
 
 ```
-pip install git+https://github.com/cdreetz/lambda_cloud_client.git
+pip install git+https://github.com/cdreetz/lambda_toolio.git
 ```
 
 Or using Poetry:
 
 ```
-poetry add git+https://github.com/cdreetz/lambda_cloud_client.git
+poetry add git+https://github.com/cdreetz/lambda_toolio.git
 ```
 
 ## Usage
